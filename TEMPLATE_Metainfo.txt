@@ -1,22 +1,12 @@
 
-Name of Quantlet: MUST NOT BE EMPTY!
+Name of Quantlet: Mitcoin_Privacy_Evaluation
 
-Published in: MUST NOT BE EMPTY!
+Published in: Q-Kolleg Seminar Paper
 
-Description: MUST NOT BE EMPTY!
+Description: 'Simulates a business network of Bitcoin users. Adopts inherent features in Bitcoin to connect and cluster Bitcoin addresses. Returns a table of how well the users are assigned to the optimal clusters.'
 
-Keywords: MUST NOT BE EMPTY!
+Keywords : Bitcoin, Blockchain, Crypto Privacy, Clustering
 
-See also: for listing related, similar Quantlets or Github code from your point of view - delete if not used
+Author: Lara Vomfell
 
-Author: SHOULD NOT BE EMPTY
-
-Submitted:  SHOULD NOT BE EMPTY
-
-Datafile: for your data sets - delete if not used
-
-Input: (optional - delete if not used)
-
-Output:  (optional - delete if not used)
-
-Example: for your plots, graphs, results etc. - delete if not used
+Submitted:  Wed, Sep 8 2016 by Lara Vomfell
